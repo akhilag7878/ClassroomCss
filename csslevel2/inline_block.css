@@ -1,0 +1,21 @@
+h1{
+    background-color: orange;
+}
+div{
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display:inline-block;
+}
+/* display:none //No display and no space reserve
+visibility:hidden//No display but space is reserved */
+#box1{
+    background-color:blue ;
+}
+#box2{
+    background-color:green;
+}
+#box3{
+    background-color:red;
+}

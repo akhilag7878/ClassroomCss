@@ -1,0 +1,17 @@
+*{
+    color: rgb(23, 67, 52);
+}
+button{
+    color: brown;
+}
+
+#hOne{
+    color: yellow;
+}
+#htwo{
+    color: chocolate;
+}
+
+.hThree{
+    color: magenta;
+}

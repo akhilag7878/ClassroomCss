@@ -1,0 +1,15 @@
+h3{
+    color: #092021;
+    /* foreground: text, botton,link */
+}
+body{
+    background-color: rgb(156, 191, 214);
+}
+p{
+    color:rgb(52, 5, 58);
+}
+
+button{
+    color: rgb(34, 7, 58);
+    background-color: rgb(109, 89, 17);
+}
